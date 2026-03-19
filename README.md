@@ -15,3 +15,7 @@ I am learning how GitHub works.
 - GitHub stores my projects
 - Commits are save points
 - Push sends changes online
+
+This is my first Github Update 
+
+This is another edit
